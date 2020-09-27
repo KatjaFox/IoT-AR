@@ -1,7 +1,7 @@
 # IoT-AR
 
 # download a repository on GitHub.com to our machine
-git clone https://github.com/me/repo.git
+git clone https://github.com/KatjaFox/IoT-AR.git
 
 # change into the `repo` directory
 cd repo
